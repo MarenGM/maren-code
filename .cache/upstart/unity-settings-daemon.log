@@ -1,0 +1,6 @@
+
+(unity-settings-daemon:1238): media-keys-plugin-WARNING **: Failed to call Shutdown on session manager: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._g_2dio_2derror_2dquark.Code19: Operation was cancelled
+
+** (unity-settings-daemon:1243): WARNING **: Couldn't connect to accessibility bus: Failed to connect to socket /tmp/dbus-hG4YXwgiBv: Connection refused
+
+** (unity-settings-daemon:1243): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
