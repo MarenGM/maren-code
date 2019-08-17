@@ -3,12 +3,177 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/george/Downloads/slack-desktop-4.0.1-amd64.deb" added="2019-08-15T08:31:02Z" modified="2019-08-15T08:31:02Z" visited="2019-08-15T08:31:02.652329Z">
+  <bookmark href="file:///home/george/Downloads/slack-desktop-4.0.1-amd64.deb" added="2019-08-15T08:31:02Z" modified="2019-08-16T12:30:43Z" visited="2019-08-15T08:31:02Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.debian.binary-package"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-08-15T08:31:02Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2019-08-16T12:30:43Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_george0/firefox-68.0.2.tar.bz2" added="2019-08-16T10:23:54Z" modified="2019-08-16T10:23:54Z" visited="2019-08-16T10:23:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-08-16T10:23:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/unhubfork/index.html" added="2019-08-16T10:40:59Z" modified="2019-08-16T12:35:08Z" visited="2019-08-16T10:40:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-08-16T10:45:08Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2019-08-16T12:35:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/unhubfork/profile.html" added="2019-08-16T10:57:44Z" modified="2019-08-16T12:34:25Z" visited="2019-08-16T10:57:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-08-16T11:03:22Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2019-08-16T12:34:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/george/WINSETUP/google-chrome-stable_current_amd64.deb" added="2019-08-16T12:07:05Z" modified="2019-08-16T12:08:23Z" visited="2019-08-16T12:07:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2019-08-16T12:08:23Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/Documents/google-chrome-stable_current_amd64.deb" added="2019-08-16T12:09:33Z" modified="2019-08-16T12:22:12Z" visited="2019-08-16T12:09:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2019-08-16T12:22:12Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/unhubfork/profile.html2" added="2019-08-16T13:02:23Z" modified="2019-08-16T13:04:11Z" visited="2019-08-16T13:02:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-08-16T13:04:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/unhubfork/profile.html3" added="2019-08-16T13:26:37Z" modified="2019-08-16T13:27:07Z" visited="2019-08-16T13:26:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-08-16T13:27:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/Desktop/google-chrome-stable_current_amd64.deb" added="2019-08-16T13:59:41Z" modified="2019-08-16T14:03:19Z" visited="2019-08-16T13:59:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2019-08-16T14:03:19Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/slack_0.15.2-7_all.deb" added="2019-08-16T17:49:12Z" modified="2019-08-16T17:49:12Z" visited="2019-08-16T17:49:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2019-08-16T17:49:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/readme1.md" added="2019-08-16T21:26:49Z" modified="2019-08-16T21:28:39Z" visited="2019-08-16T21:26:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-08-16T21:28:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/Downloads/google-chrome-stable_current_amd64.deb" added="2019-08-17T06:50:46Z" modified="2019-08-17T06:50:46Z" visited="2019-08-17T06:50:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2019-08-17T06:50:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/nhubfork/index.html" added="2019-08-17T07:34:09Z" modified="2019-08-17T07:34:10Z" visited="2019-08-17T07:34:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2019-08-17T07:34:09Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-08-17T07:34:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/nhub.mb" added="2019-08-17T07:34:23Z" modified="2019-08-17T07:34:23Z" visited="2019-08-17T07:34:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-08-17T07:34:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/george/Downloads/GitNotesForProfessionals.pdf" added="2019-08-17T07:34:44Z" modified="2019-08-17T07:34:44Z" visited="2019-08-17T07:34:44.264092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2019-08-17T07:34:44Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

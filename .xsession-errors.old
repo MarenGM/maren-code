@@ -1,19 +1,20 @@
 openConnection: connect: No such file or directory
 cannot connect to brltty at :0
-upstart: unity-settings-daemon main process ended, respawning
-upstart: bamfdaemon main process (1222) killed by TERM signal
-upstart: hud main process (1236) killed by HUP signal
-upstart: indicator-bluetooth main process (1275) killed by TERM signal
-upstart: indicator-power main process (1276) killed by TERM signal
-upstart: indicator-datetime main process (1283) killed by TERM signal
-upstart: gnome-session (Unity) main process (1247) killed by HUP signal
-upstart: unity-panel-service main process (1254) killed by HUP signal
-upstart: indicator-sound main process (1287) killed by HUP signal
-upstart: indicator-printers main process (1291) killed by TERM signal
-upstart: indicator-session main process (1293) killed by TERM signal
-upstart: indicator-application main process (1298) killed by TERM signal
-upstart: unity-settings-daemon main process (1961) killed by TERM signal
-upstart: indicator-application pre-stop process (1964) killed by TERM signal
-upstart: gnome-session (Unity) pre-stop process (1966) killed by TERM signal
-upstart: unity7 main process (1242) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_bin_appstreamcli.0.crash) main process (1233) terminated with status 1
+upstart: update-notifier-crash (/var/crash/_usr_share_apport_apport-gtk.0.crash) main process (1234) terminated with status 1
+upstart: bamfdaemon main process (1359) killed by TERM signal
+upstart: hud main process (1363) killed by HUP signal
+upstart: unity-settings-daemon main process (1365) killed by HUP signal
+upstart: gnome-session (Unity) main process (1376) killed by HUP signal
+upstart: unity-panel-service main process (1381) killed by HUP signal
+upstart: indicator-bluetooth main process (1423) killed by TERM signal
+upstart: indicator-power main process (1424) killed by TERM signal
+upstart: indicator-datetime main process (1429) killed by TERM signal
+upstart: indicator-sound main process (1433) killed by HUP signal
+upstart: indicator-printers main process (1439) killed by TERM signal
+upstart: indicator-session main process (1440) killed by TERM signal
+upstart: indicator-application main process (1479) killed by TERM signal
+upstart: indicator-application pre-stop process (9371) killed by TERM signal
+upstart: gnome-session (Unity) pre-stop process (9374) killed by TERM signal
 upstart: Disconnected from notified D-Bus bus
+upstart: unity7 main process (1371) terminated with status 1

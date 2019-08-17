@@ -1,98 +1,54 @@
 
-(unity-panel-service:1254): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1254): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1254): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1254): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-WARNING **: Already have a menu for window ID 23068895 with path /com/canonical/menu/16000DF from :1.79, unregistering that one
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch type: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch monitor: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch maximized state: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch property `_GTK_UNIQUE_BUS_NAME': GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-WARNING **: Already have a menu for window ID 58720479 with path /com/canonical/menu/38000DF from :1.126, unregistering that one
+** (unity-panel-service:1368): WARNING **: Failed to fetch path: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+** (unity-panel-service:1368): WARNING **: Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/41946159
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
 
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: window_menu_model_new: assertion 'BAMF_IS_APPLICATION(app)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: track_menus: assertion 'IS_WINDOW_MENU(menus)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
-
-(unity-panel-service:1259): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
+(unity-panel-service:1368): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'IS_WINDOW_MENU(wm)' failed
